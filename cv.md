@@ -5,7 +5,7 @@
 ## Contacts: 
 * #### Phone:  +380660695777
 * #### E-mail: ua.rubtsov.a@gmail.com 
-* #### Github: artemrubtsov
+* #### Github: ArtemRubtsov
 * #### Telegram: @Rubtsov7
 *****************
 
