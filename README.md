@@ -1,1 +1,1 @@
-https://ArtemRubtsov.github.io/devArtemRubtsov
+https://ArtemRubtsov.github.io/devArtemRubtsov/cv
